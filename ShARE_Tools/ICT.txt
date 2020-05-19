@@ -1,0 +1,15 @@
+name: Rúben Pinto	
+img: RubenPinto.jpg	
+linkedin: www.linkedin.com/in/carlosrubenalmeidapinto
+
+name: Rúben Araújo	
+img: RubenAraujo.jpg	
+linkedin:	
+
+name: Luiz Fernando Merola Mendes
+img: LuizFernandoMerolaMendes.jpg	
+linkedin: https://www.linkedin.com/in/luiz-fernando-merola-mendes-202449173/
+
+name: Pedro Moreira	
+img: PedroMoreira.jpg
+linkedin: https://www.linkedin.com/in/pedro-josé-ferreira-moreira-72050b1a5/

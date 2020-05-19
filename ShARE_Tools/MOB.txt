@@ -1,0 +1,21 @@
+name: Igor Mazin	
+img: IgorMazin.jpg
+linkedin: https://www.linkedin.com/in/igor-mazin/
+
+name: Denis Yamunaque
+img: DenisYamunaque.jpg
+linkedin: https://www.linkedin.com/in/denis-yamunaque/
+
+name: Ana Luísa Coelho
+img: AnaLuisaCoelho.jpgs
+linkedin: https://www.linkedin.com/in/analuisacoelho13/
+
+name: Rodrigo Castro
+img: RodrigoCastro.png
+linkedin: 
+
+
+
+
+
+

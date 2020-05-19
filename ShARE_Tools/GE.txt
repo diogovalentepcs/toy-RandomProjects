@@ -1,0 +1,19 @@
+name: João Costa 	
+img: JoaoCosta.jpg
+linkedin: https://www.linkedin.com/in/jo%C3%A3o-costa-594467176/
+
+name: Pedro Freitas	
+img: PedroFreitas.jpg
+linkedin: https://www.linkedin.com/in/pedro-freitas-5b56a2185/
+
+name: Miguel Ferreira	
+img: MiguelFerreira.jpg
+linkedin: https://www.linkedin.com/in/miguelroqueferreira/
+
+name: Sofia Dias	
+img: SofiaDias.jpg
+linkedin: https://www.linkedin.com/in/sofia-dias-6023321a3/?originalSubdomain=pt
+
+name: Beatriz Seabra
+img: BeatrizSeabra.jpg
+linkedin: https://www.linkedin.com/in/beatriz-seabra-pereira-a5135b195/?fbclid=IwAR1eC4LA9T5hiF3odK6Tj_h0ATREmeDmRQ7b0WVh4LVfOrGyYL0qTmZJ5fs

@@ -1,0 +1,23 @@
+name: Armando Ferreira
+img: ArmandoFerreira.jpg
+linkedin: https://www.linkedin.com/in/armando-milhais-ferreira-411450185
+
+name: Pedro Gomes
+img: PedroErthal.jpg
+linkedin: https://www.linkedin.com/in/pedroerthal/
+
+name: Rita Sobreira
+img: RitaSobreira.jpg
+linkedin: https://www.linkedin.com/in/rita-sobreira-0666bb1a3/
+
+name: Leonardo Alves	
+img: LeonardoAlves.jpg
+linkedin: https://www.linkedin.com/in/leonardo-alves-38b27a13a/
+
+name: Tomás Baptista 	
+img: TomasBaptista.jpg
+linkedin: https://www.linkedin.com/in/tomás-baptista-5ba277a9/
+
+name: Carla Silva	
+img: CarlaSilva.jpg
+linkedin: https://www.linkedin.com/in/carla-silva-359030164/

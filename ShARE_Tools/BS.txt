@@ -1,0 +1,23 @@
+name: Inês Bastos	
+img: InesBastos.jpg
+linkedin: https://www.linkedin.com/in/in%C3%AAs-bastos-b80790194/
+
+name: Paula Leite	
+img: PaulaLeite.jpg
+linkedin: https://www.linkedin.com/in/paula-leite-85b9501a3/
+
+name: Daniel Cardoso	
+img: DanielCardoso.jpg
+linkedin: https://www.linkedin.com/in/daniel-vasconcelos-cardoso-1a689517b/
+
+name: Isabel Gouveia
+img: IsabelGouveia.jpg
+linkedin:
+
+name: Tiago Teles Lopes
+img: TiagoTelesLopes.jpg
+linkedin: https://www.linkedin.com/in/tiago-teles-lopes-732703100/
+
+name: Tiago Santos
+img: TiagoSantos.jpg
+linkedin: http://www.linkedin.com/in/tiago-sal-santos

@@ -1,0 +1,27 @@
+name: Leonardo Santos	
+img: LeonardoSantos.jpg
+linkedin: https://www.linkedin.com/in/leonardo-teixeira-dos-santos-59689a177/
+
+name: Maria Botelho	
+img: MariaBotelho.jpg
+linkedin: www.linkedin.com/in/maria-pereira-botelho
+
+name: Margarida Pinheiro	
+img: MargaridaPinheiro.jpg	
+linkedin:	
+
+name: Luis Antunes
+img: LuisAntunes.jpg
+linkedin: https://www.linkedin.com/in/luis-antunes/
+
+name: Mariana Gonçalves
+img: MarianaGonçalves.jpg
+linkedin: https://www.linkedin.com/in/marianagonçalves/
+
+name: Tiago Almeida
+img: TiagoAlmeida.jpg
+linkedin: https://www.linkedin.com/in/tiago-almeida-9b15281a3/
+
+name: JulianaRodrigues
+img: JulianaRodrigues.jpg	
+linkedin: https://www.linkedin.com/in/juliana-rodrigues-6ba4881a0
