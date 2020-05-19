@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- saved from url=(0074)file:///Users/diogovalentepcs/Documents/WebDev/HomeIt-prototype/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta name="viewport">
+    <title>Home It</title>
+
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="./Home It_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="file:///Users/diogovalentepcs/Documents/WebDev/HomeIt-prototype/main.css">
+
+    <!-- veu js -->
+    <script defer="" src="./Home It_files/vue"></script>
+
+    <!-- bootstrap js -->
+    <script defer="" src="./Home It_files/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script defer="" src="./Home It_files/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script defer="" src="./Home It_files/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <!-- custom js -->
+    <script defer="" src="file:///Users/diogovalentepcs/Documents/WebDev/HomeIt-prototype/main.js"></script>
+
+</head>
+
+<body>
+    <div v-for="variant in variants" class="col-4">
+        <img v-bind:src="variant.variantImage">
+    </div>
+    <div class="container text-center my-3">
+        <h2>Houses for Sale</h2>
+        <div id="houseCarousel" class="row mx-auto my-auto">
+            <div v-for="variant in variants" class="col-4">
+                <img :src="variant.variantImage">
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+</body></html>

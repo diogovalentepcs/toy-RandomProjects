@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport">
+    <title>Home It</title>
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script defer src="./main.js"></script>
+</head>
+
+<body>
+
+    <div id="app" class="container">
+        <div class="row">
+            <div class="col-4 offset-4">
+                <img v-bind:src="image">
+            </div>
+            <button @click="swipeRight(imageIndex)"></button>
+
+
+
+            <!-- <div class="product-info">
+                <h1>{{product}}</h1>
+                <p v-if='inventory > 10'>In stock</p>
+                <p v-else-if="inventory > 0">Almost out</p>
+                <p v-else>Out of stock</p>
+
+                <ul>
+                    <li v-for='detail in details'>{{detail}}</li>
+                </ul>
+
+                <div v-for='variant in variants' :key='variants.variantId' class="color-box" :style="{backgroundColor: variant.variantColor}" @mouseover="updateProduct(variant.variantImage)">
+                </div>
+                <button v-on:click="addToCart" :disabled='inventory == 0' :class="{disabledButton: inventory==0}">Add to Cart</button>
+                <div class="cart">
+                    <p>Cart({{cart}})</p>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+</body>
+
+</html>
